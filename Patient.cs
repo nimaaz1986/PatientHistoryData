@@ -1,6 +1,6 @@
 ﻿/* Patient Class Definition
  * Auther: Nima Azadikhah
- * Date: ------
+ * Date: ----
  * GitHub: nimaaz1986
  */
 #region USING STATEMENTS
